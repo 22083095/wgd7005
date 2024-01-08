@@ -1,0 +1,1001 @@
+customerid,age,gender,location,creditcard,totalpurchases,totalspent,favouritecategory,lastpurchasedate,frequency,churn
+1,46,M,United States,mastercard,35,49,Toys,1/11/2023,26,0
+2,36,F,Canada,americanexpress,35,251,Health,1/8/2023,36,1
+3,21,F,Mexico,mastercard,19,179,Computers,1/7/2023,7,1
+4,30,M,United States,visa,24,70,Jewelry,1/7/2023,53,1
+5,73,M,Canada,mastercard,33,160,Electronics,1/7/2023,12,0
+6,48,M,United States,americanexpress,4,317,Games,1/11/2023,16,0
+7,36,M,United States,americanexpress,14,23,Books,1/9/2023,76,0
+8,73,M,Canada,mastercard,18,115,Automotive,1/7/2023,82,1
+9,56,M,United States,americanexpress,46,360,Clothing,1/8/2023,21,0
+10,23,M,United States,visa,47,442,Shoes,1/9/2023,96,1
+11,71,M,Canada,americanexpress,44,147,Computers,1/9/2023,63,1
+12,46,M,Canada,americanexpress,5,304,Outdoors,1/11/2023,48,0
+13,39,M,Canada,visa,48,252,Clothing,1/7/2023,27,1
+14,29,M,United States,americanexpress,25,456,Health,1/9/2023,110,0
+15,44,F,United States,americanexpress,23,326,Movies,1/9/2023,44,0
+16,52,F,United States,visa,30,119,Clothing,1/9/2023,66,0
+17,33,F,United States,visa,43,473,Music,1/11/2023,35,1
+18,57,M,Mexico,visa,2,259,Garden,1/7/2023,60,1
+19,47,M,Canada,visa,36,226,Industrial,1/10/2023,72,1
+20,75,M,Canada,visa,20,115,Clothing,1/7/2023,87,0
+21,50,M,United States,americanexpress,36,177,Shoes,1/11/2023,38,1
+22,60,F,Mexico,americanexpress,8,330,Garden,1/8/2023,46,0
+23,49,M,United Kingdom,visa,43,247,Jewelry,1/9/2023,16,0
+24,65,M,United States,visa,3,317,Industrial,1/11/2023,78,0
+25,51,M,United States,visa,26,171,Books,1/9/2023,83,0
+26,72,F,Canada,americanexpress,23,424,Books,1/7/2023,25,1
+27,59,F,Mexico,mastercard,2,100,Outdoors,1/11/2023,100,0
+28,21,M,United States,mastercard,13,148,Books,1/11/2023,61,0
+29,72,F,United States,mastercard,21,468,Sports,1/11/2023,32,0
+30,25,M,United States,mastercard,27,310,Jewelry,1/8/2023,17,1
+31,75,F,United States,visa,45,397,Jewelry,1/10/2023,122,0
+32,39,F,Canada,mastercard,13,209,Computers,1/10/2023,98,1
+33,24,F,Canada,visa,48,97,Health,1/8/2023,2,1
+34,35,F,United States,americanexpress,49,246,Industrial,1/11/2023,81,1
+35,44,M,Canada,mastercard,24,340,Health,1/11/2023,67,1
+36,60,M,Canada,mastercard,29,66,Beauty,1/11/2023,17,0
+37,61,M,United States,americanexpress,34,404,Health,1/9/2023,16,1
+38,26,M,United States,mastercard,25,271,Sports,1/8/2023,121,0
+39,64,M,United States,visa,26,365,Movies,1/9/2023,118,1
+40,75,M,Canada,mastercard,24,460,Health,1/7/2023,35,0
+41,48,F,United States,visa,50,433,Beauty,1/8/2023,10,0
+42,75,M,United Kingdom,visa,25,187,Health,1/8/2023,108,1
+43,21,F,United States,visa,34,376,Sports,1/9/2023,72,0
+44,59,M,Canada,americanexpress,21,273,Electronics,1/10/2023,81,0
+45,27,M,United States,visa,32,287,Shoes,1/7/2023,46,1
+46,42,F,United States,mastercard,17,223,Automotive,1/8/2023,67,0
+47,60,M,United States,mastercard,28,406,Baby,1/11/2023,92,1
+48,32,M,United Kingdom,mastercard,39,367,Electronics,1/7/2023,3,1
+49,32,F,Mexico,americanexpress,35,266,Games,1/8/2023,21,1
+50,31,F,United Kingdom,mastercard,9,326,Books,1/10/2023,122,1
+51,54,M,Mexico,mastercard,17,50,Health,1/10/2023,79,0
+52,25,M,Canada,americanexpress,44,181,Industrial,1/7/2023,110,1
+53,63,M,Mexico,americanexpress,6,326,Tools,1/10/2023,18,0
+54,54,M,United States,americanexpress,12,257,Jewelry,1/9/2023,89,0
+55,65,F,United States,mastercard,22,399,Industrial,1/7/2023,99,1
+56,49,M,Canada,americanexpress,32,381,Shoes,1/9/2023,62,1
+57,66,F,United States,americanexpress,5,393,Electronics,1/11/2023,95,1
+58,30,F,Canada,mastercard,46,353,Home,1/8/2023,85,1
+59,53,F,Canada,visa,2,339,Tools,1/8/2023,114,0
+60,28,F,United States,americanexpress,1,412,Baby,1/9/2023,6,0
+61,34,F,United States,visa,5,389,Industrial,1/7/2023,73,1
+62,35,F,United States,visa,24,102,Toys,1/11/2023,68,0
+63,44,F,Canada,americanexpress,4,354,Industrial,1/7/2023,33,1
+64,23,M,Canada,americanexpress,47,36,Beauty,1/9/2023,18,1
+65,58,M,United States,mastercard,37,357,Baby,1/10/2023,91,1
+66,22,F,United States,americanexpress,25,122,Automotive,1/10/2023,23,1
+67,33,F,Canada,americanexpress,2,116,Kids,1/11/2023,37,0
+68,58,M,Mexico,mastercard,40,314,Music,1/11/2023,67,1
+69,32,F,United States,visa,39,204,Health,1/10/2023,3,0
+70,25,F,Mexico,americanexpress,45,321,Automotive,1/11/2023,107,0
+71,48,F,Canada,visa,50,403,Automotive,1/7/2023,12,1
+72,21,F,United States,americanexpress,24,235,Kids,1/7/2023,111,1
+73,37,F,United Kingdom,americanexpress,5,289,Games,1/9/2023,31,0
+74,36,F,United States,mastercard,3,309,Electronics,1/11/2023,105,1
+75,54,F,Mexico,visa,21,72,Grocery,1/8/2023,43,0
+76,72,F,Mexico,americanexpress,31,458,Shoes,1/10/2023,53,1
+77,21,F,United States,americanexpress,45,373,Music,1/9/2023,51,1
+78,59,M,Canada,visa,36,24,Books,1/7/2023,51,1
+79,57,F,Mexico,americanexpress,48,231,Sports,1/7/2023,101,0
+80,53,M,Mexico,visa,33,93,Automotive,1/11/2023,10,0
+81,48,M,Canada,americanexpress,27,334,Jewelry,1/11/2023,106,0
+82,43,F,Mexico,visa,30,351,Garden,1/7/2023,20,1
+83,25,M,United States,visa,3,410,Industrial,1/8/2023,20,1
+84,67,F,Canada,visa,12,442,Sports,1/10/2023,32,1
+85,49,F,United Kingdom,mastercard,10,210,Computers,1/8/2023,12,0
+86,59,F,Mexico,mastercard,30,176,Books,1/7/2023,24,1
+87,23,F,Canada,mastercard,42,186,Movies,1/9/2023,89,1
+88,38,M,Mexico,visa,17,46,Electronics,1/11/2023,111,1
+89,30,M,Canada,visa,30,239,Books,1/7/2023,12,1
+90,69,F,Mexico,visa,46,106,Jewelry,1/10/2023,33,0
+91,37,M,United States,americanexpress,5,375,Outdoors,1/10/2023,121,1
+92,37,M,Canada,americanexpress,17,220,Sports,1/9/2023,78,1
+93,52,M,United States,mastercard,8,175,Music,1/10/2023,46,0
+94,63,M,Mexico,americanexpress,13,51,Health,1/11/2023,52,1
+95,52,F,United States,americanexpress,23,93,Kids,1/7/2023,97,0
+96,75,F,Mexico,americanexpress,20,224,Outdoors,1/9/2023,60,0
+97,44,F,United States,visa,23,65,Beauty,1/8/2023,38,0
+98,53,M,United States,mastercard,20,160,Sports,1/7/2023,11,1
+99,60,F,Mexico,visa,43,312,Toys,1/11/2023,83,1
+100,27,M,United States,americanexpress,6,111,Tools,1/9/2023,3,0
+101,38,F,Canada,visa,26,397,Shoes,1/7/2023,36,1
+102,47,M,Canada,mastercard,41,468,Grocery,1/7/2023,96,0
+103,49,M,United States,americanexpress,42,313,Jewelry,1/9/2023,109,0
+104,35,F,Mexico,americanexpress,45,285,Movies,1/8/2023,109,0
+105,25,F,Canada,mastercard,24,67,Toys,1/11/2023,32,1
+106,25,M,Canada,americanexpress,43,133,Automotive,1/11/2023,122,0
+107,59,F,United States,visa,6,149,Electronics,1/9/2023,111,0
+108,26,F,Mexico,americanexpress,48,85,Health,1/9/2023,72,1
+109,39,M,Canada,mastercard,36,366,Health,1/9/2023,71,0
+110,60,F,United States,visa,15,400,Jewelry,1/8/2023,112,0
+111,33,F,United States,americanexpress,3,347,Baby,1/11/2023,30,0
+112,32,F,United States,visa,10,372,Grocery,1/8/2023,30,1
+113,30,M,Canada,visa,9,234,Games,1/8/2023,15,1
+114,70,F,United States,mastercard,8,266,Baby,1/7/2023,111,1
+115,75,M,Mexico,americanexpress,30,302,Health,1/9/2023,89,0
+116,48,M,United States,visa,19,190,Games,1/11/2023,123,0
+117,51,F,United States,mastercard,15,463,Health,1/7/2023,99,1
+118,70,F,Canada,visa,22,463,Sports,1/8/2023,69,0
+119,65,F,United States,visa,32,287,Kids,1/9/2023,17,1
+120,32,M,Canada,americanexpress,35,347,Tools,1/7/2023,99,0
+121,44,F,United States,americanexpress,37,120,Grocery,1/9/2023,89,1
+122,34,F,Mexico,americanexpress,15,45,Automotive,1/8/2023,62,1
+123,64,F,United States,mastercard,35,180,Computers,1/11/2023,26,0
+124,39,M,Canada,mastercard,45,324,Health,1/9/2023,90,0
+125,65,M,Mexico,americanexpress,9,210,Home,1/8/2023,83,0
+126,75,M,United States,visa,43,353,Tools,1/10/2023,28,0
+127,56,F,United States,americanexpress,5,385,Kids,1/9/2023,97,0
+128,69,F,United States,mastercard,17,39,Clothing,1/9/2023,46,1
+129,22,M,United States,americanexpress,41,179,Computers,1/11/2023,15,0
+130,58,M,Mexico,americanexpress,26,167,Baby,1/9/2023,59,0
+131,32,F,Canada,mastercard,4,480,Beauty,1/9/2023,64,1
+132,59,M,United States,visa,8,274,Computers,1/11/2023,46,0
+133,50,M,United States,americanexpress,5,124,Health,1/7/2023,34,1
+134,68,M,Canada,visa,48,237,Baby,1/7/2023,45,1
+135,40,M,Canada,mastercard,29,270,Jewelry,1/8/2023,22,0
+136,34,M,United States,mastercard,8,278,Beauty,1/9/2023,40,0
+137,58,F,United States,visa,28,270,Computers,1/11/2023,13,1
+138,56,M,United States,americanexpress,20,432,Industrial,1/11/2023,31,0
+139,68,M,United States,visa,45,198,Sports,1/9/2023,89,1
+140,29,F,United States,mastercard,4,231,Shoes,1/7/2023,1,1
+141,49,M,United States,mastercard,44,176,Kids,1/7/2023,48,1
+142,75,M,Mexico,americanexpress,49,320,Automotive,1/9/2023,84,1
+143,65,M,United States,mastercard,3,258,Automotive,1/9/2023,116,1
+144,73,M,United States,mastercard,3,330,Toys,1/11/2023,99,1
+145,53,F,Mexico,americanexpress,46,143,Garden,1/9/2023,41,1
+146,66,M,Canada,mastercard,25,48,Kids,1/9/2023,65,1
+147,51,F,United States,visa,14,119,Games,1/10/2023,20,1
+148,26,M,United States,americanexpress,14,164,Tools,1/7/2023,62,0
+149,66,M,United States,americanexpress,44,112,Toys,1/9/2023,21,1
+150,53,F,Canada,visa,7,31,Games,1/11/2023,110,0
+151,69,M,United States,visa,35,428,Garden,1/11/2023,68,1
+152,45,M,Canada,americanexpress,10,430,Outdoors,1/9/2023,1,1
+153,65,F,United States,visa,19,163,Jewelry,1/7/2023,5,0
+154,38,F,United States,americanexpress,34,475,Toys,1/11/2023,69,1
+155,21,F,Mexico,americanexpress,29,256,Outdoors,1/8/2023,9,1
+156,28,F,United Kingdom,mastercard,29,131,Movies,1/8/2023,91,0
+157,28,F,United States,visa,42,247,Beauty,1/9/2023,122,1
+158,53,F,Mexico,mastercard,47,31,Shoes,1/9/2023,68,1
+159,63,F,Canada,americanexpress,17,190,Movies,1/11/2023,31,0
+160,47,M,United States,americanexpress,27,159,Books,1/9/2023,13,1
+161,54,F,Mexico,visa,44,205,Computers,1/9/2023,45,0
+162,62,M,United States,visa,36,456,Movies,1/11/2023,99,1
+163,24,F,United States,americanexpress,21,462,Books,1/9/2023,105,0
+164,52,F,United States,americanexpress,44,461,Health,1/8/2023,55,1
+165,58,M,Canada,americanexpress,25,469,Movies,1/8/2023,3,1
+166,68,M,United States,mastercard,22,214,Industrial,1/9/2023,16,1
+167,49,M,United States,mastercard,50,369,Clothing,1/10/2023,94,1
+168,53,F,Canada,americanexpress,17,107,Toys,1/8/2023,78,0
+169,52,F,United States,visa,24,102,Industrial,1/8/2023,107,1
+170,39,F,Canada,mastercard,20,342,Beauty,1/8/2023,8,1
+171,73,F,United States,mastercard,3,177,Sports,1/11/2023,108,0
+172,71,M,United States,visa,43,402,Jewelry,1/8/2023,20,1
+173,57,F,Canada,americanexpress,40,259,Jewelry,1/7/2023,88,1
+174,70,F,Mexico,visa,8,218,Industrial,1/8/2023,108,0
+175,70,M,United Kingdom,mastercard,2,235,Movies,1/7/2023,2,0
+176,61,M,United States,americanexpress,42,474,Clothing,1/11/2023,4,0
+177,41,M,Mexico,visa,34,449,Tools,1/10/2023,114,0
+178,39,F,United States,visa,16,42,Industrial,1/8/2023,7,1
+179,36,F,United States,mastercard,7,313,Clothing,1/11/2023,88,1
+180,53,M,United Kingdom,americanexpress,20,219,Automotive,1/10/2023,66,1
+181,28,F,Canada,americanexpress,17,394,Jewelry,1/9/2023,44,1
+182,25,M,United States,visa,35,275,Computers,1/10/2023,70,1
+183,28,M,Canada,visa,26,245,Garden,1/10/2023,11,1
+184,45,M,United States,mastercard,5,408,Sports,1/10/2023,70,0
+185,64,M,United States,mastercard,25,366,Sports,1/7/2023,52,0
+186,59,M,Mexico,visa,13,364,Jewelry,1/9/2023,62,1
+187,42,M,Canada,americanexpress,40,462,Jewelry,1/10/2023,5,1
+188,68,F,United States,mastercard,42,84,Jewelry,1/10/2023,76,1
+189,33,F,United States,mastercard,45,222,Home,1/7/2023,74,0
+190,50,M,United States,visa,24,51,Clothing,1/11/2023,61,0
+191,32,F,United Kingdom,mastercard,12,369,Tools,1/7/2023,11,0
+192,41,M,Mexico,mastercard,23,264,Beauty,1/11/2023,19,0
+193,28,M,Mexico,americanexpress,26,395,Tools,1/8/2023,59,0
+194,43,F,Canada,americanexpress,1,168,Industrial,1/10/2023,83,1
+195,56,M,United States,mastercard,42,100,Sports,1/10/2023,71,1
+196,35,M,Canada,visa,12,24,Tools,1/7/2023,93,0
+197,23,M,United States,americanexpress,29,180,Sports,1/7/2023,88,1
+198,34,F,Canada,visa,9,427,Books,1/7/2023,100,1
+199,58,F,United States,visa,40,89,Garden,1/7/2023,97,1
+200,68,F,United States,visa,27,130,Baby,1/9/2023,20,1
+201,42,F,United States,americanexpress,16,223,Jewelry,1/7/2023,40,0
+202,71,F,Canada,visa,17,400,Sports,1/10/2023,19,1
+203,51,F,Canada,mastercard,35,422,Movies,1/9/2023,64,0
+204,62,F,United States,mastercard,44,198,Beauty,1/11/2023,112,0
+205,24,F,Canada,americanexpress,14,94,Sports,1/10/2023,119,1
+206,63,M,Mexico,americanexpress,28,96,Automotive,1/7/2023,17,0
+207,25,F,United States,mastercard,37,122,Games,1/9/2023,115,1
+208,74,M,Canada,visa,50,376,Automotive,1/9/2023,16,1
+209,74,M,United States,americanexpress,33,293,Health,1/11/2023,89,0
+210,53,M,Canada,visa,49,411,Health,1/11/2023,117,1
+211,32,M,United States,mastercard,11,123,Music,1/9/2023,118,0
+212,73,M,United States,americanexpress,9,402,Computers,1/9/2023,60,0
+213,49,M,United States,mastercard,24,446,Computers,1/8/2023,71,0
+214,34,F,United States,mastercard,36,433,Baby,1/10/2023,5,1
+215,29,F,Mexico,visa,7,441,Grocery,1/8/2023,111,1
+216,72,F,United States,visa,20,295,Baby,1/7/2023,82,1
+217,39,F,Canada,americanexpress,4,174,Tools,1/8/2023,77,1
+218,54,M,United States,visa,29,245,Games,1/9/2023,21,0
+219,47,M,United Kingdom,visa,7,46,Music,1/7/2023,74,0
+220,34,F,United States,mastercard,17,439,Home,1/9/2023,117,1
+221,57,M,Mexico,americanexpress,3,339,Books,1/10/2023,73,1
+222,71,M,Mexico,visa,12,48,Toys,1/9/2023,102,0
+223,26,M,United States,americanexpress,4,185,Toys,1/8/2023,28,1
+224,31,F,Canada,americanexpress,10,128,Health,1/8/2023,39,1
+225,75,F,Canada,mastercard,21,397,Games,1/10/2023,62,0
+226,45,M,Canada,visa,41,151,Garden,1/9/2023,69,1
+227,57,F,United States,americanexpress,26,108,Health,1/11/2023,112,0
+228,30,F,United States,mastercard,43,40,Jewelry,1/9/2023,35,1
+229,63,F,Canada,americanexpress,10,114,Baby,1/9/2023,40,0
+230,55,M,Canada,mastercard,34,157,Kids,1/7/2023,57,0
+231,72,F,United States,americanexpress,27,206,Toys,1/10/2023,44,1
+232,27,M,Canada,americanexpress,43,26,Toys,1/8/2023,28,1
+233,57,F,Canada,mastercard,38,31,Grocery,1/9/2023,13,1
+234,62,M,Mexico,mastercard,28,394,Garden,1/10/2023,45,1
+235,22,M,United Kingdom,mastercard,11,79,Shoes,1/10/2023,8,0
+236,67,M,Canada,mastercard,31,213,Grocery,1/10/2023,6,1
+237,73,M,Canada,americanexpress,49,343,Industrial,1/8/2023,13,1
+238,58,F,Mexico,americanexpress,31,205,Baby,1/7/2023,12,0
+239,55,F,Mexico,americanexpress,12,216,Industrial,1/9/2023,53,0
+240,36,M,Canada,visa,32,37,Movies,1/11/2023,53,1
+241,23,F,United States,mastercard,23,230,Tools,1/7/2023,88,0
+242,67,F,Mexico,americanexpress,1,253,Jewelry,1/10/2023,13,1
+243,26,F,United Kingdom,visa,1,75,Toys,1/8/2023,97,0
+244,39,M,Canada,visa,21,110,Books,1/11/2023,49,1
+245,74,M,United States,mastercard,48,93,Electronics,1/11/2023,86,1
+246,48,F,Canada,mastercard,45,46,Kids,1/7/2023,90,1
+247,73,M,United States,mastercard,29,166,Tools,1/9/2023,88,0
+248,63,M,Mexico,visa,27,428,Health,1/11/2023,31,0
+249,48,M,Canada,visa,10,60,Electronics,1/10/2023,99,0
+250,28,F,United States,americanexpress,27,241,Beauty,1/9/2023,54,0
+251,50,F,Mexico,visa,19,376,Music,1/7/2023,18,1
+252,24,F,Mexico,visa,46,265,Tools,1/10/2023,49,1
+253,47,M,Canada,americanexpress,47,297,Games,1/9/2023,75,1
+254,45,M,Canada,americanexpress,17,226,Shoes,1/7/2023,16,1
+255,41,M,United States,mastercard,37,120,Sports,1/10/2023,23,0
+256,53,F,United States,mastercard,24,448,Jewelry,1/10/2023,72,1
+257,62,F,Mexico,americanexpress,7,366,Automotive,1/11/2023,48,1
+258,24,F,United States,mastercard,30,98,Tools,1/11/2023,39,0
+259,39,F,Mexico,visa,44,272,Electronics,1/8/2023,16,0
+260,66,F,Canada,americanexpress,45,37,Outdoors,1/9/2023,111,0
+261,56,M,United States,americanexpress,46,185,Home,1/8/2023,117,0
+262,20,M,United States,visa,3,134,Industrial,1/7/2023,46,0
+263,70,M,Mexico,americanexpress,7,458,Jewelry,1/11/2023,106,0
+264,23,M,United States,americanexpress,1,305,Movies,1/8/2023,8,0
+265,53,F,United States,mastercard,18,428,Kids,1/11/2023,37,0
+266,75,F,Mexico,americanexpress,5,410,Baby,1/8/2023,40,0
+267,42,F,United States,visa,37,127,Electronics,1/9/2023,39,1
+268,30,M,Canada,mastercard,43,383,Electronics,1/8/2023,86,1
+269,29,M,Canada,visa,47,329,Home,1/9/2023,97,0
+270,65,F,United States,mastercard,37,463,Toys,1/7/2023,16,1
+271,74,F,United States,visa,28,401,Computers,1/9/2023,115,0
+272,62,M,Canada,americanexpress,28,405,Beauty,1/10/2023,16,1
+273,37,F,United States,visa,29,361,Electronics,1/9/2023,44,0
+274,52,M,United States,americanexpress,25,319,Home,1/7/2023,66,0
+275,43,F,United States,visa,23,465,Garden,1/9/2023,40,1
+276,44,M,Canada,visa,13,282,Garden,1/7/2023,69,0
+277,72,M,Mexico,visa,15,163,Jewelry,1/10/2023,62,0
+278,57,M,Mexico,americanexpress,20,288,Outdoors,1/11/2023,62,1
+279,33,M,United States,visa,40,363,Movies,1/8/2023,39,1
+280,43,M,United States,visa,50,35,Grocery,1/10/2023,117,1
+281,24,F,United States,mastercard,13,437,Industrial,1/9/2023,25,0
+282,29,M,United States,visa,3,314,Movies,1/11/2023,87,0
+283,38,F,Mexico,visa,42,220,Shoes,1/8/2023,8,1
+284,23,M,United States,americanexpress,6,191,Electronics,1/8/2023,81,0
+285,25,F,Canada,mastercard,3,449,Jewelry,1/8/2023,73,1
+286,58,F,United States,americanexpress,22,41,Movies,1/8/2023,21,1
+287,53,M,United States,visa,45,227,Clothing,1/9/2023,55,1
+288,50,M,United States,americanexpress,50,233,Books,1/11/2023,75,1
+289,68,F,Canada,visa,21,292,Jewelry,1/11/2023,60,1
+290,47,F,Canada,mastercard,3,337,Electronics,1/11/2023,5,1
+291,33,F,United States,americanexpress,20,55,Clothing,1/9/2023,123,0
+292,31,F,Canada,americanexpress,49,392,Industrial,1/7/2023,123,1
+293,74,F,Mexico,visa,3,334,Movies,1/7/2023,78,1
+294,34,M,Mexico,mastercard,26,38,Grocery,1/9/2023,20,1
+295,38,M,Mexico,americanexpress,13,174,Sports,1/8/2023,62,1
+296,31,M,Canada,americanexpress,33,152,Tools,1/10/2023,64,0
+297,29,F,Canada,americanexpress,50,99,Computers,1/8/2023,13,1
+298,35,F,United States,mastercard,14,461,Tools,1/7/2023,94,0
+299,36,M,Canada,americanexpress,47,414,Jewelry,1/11/2023,35,0
+300,46,F,Canada,mastercard,20,92,Home,1/7/2023,68,1
+301,66,M,United States,mastercard,35,183,Music,1/10/2023,9,1
+302,26,M,Canada,visa,25,428,Clothing,1/9/2023,13,1
+303,27,M,Mexico,mastercard,23,404,Grocery,1/9/2023,80,0
+304,52,M,United States,americanexpress,23,420,Garden,1/10/2023,14,1
+305,33,M,United States,mastercard,47,440,Movies,1/9/2023,4,1
+306,41,M,United States,americanexpress,19,436,Automotive,1/10/2023,101,0
+307,26,M,United States,mastercard,8,96,Health,1/10/2023,54,0
+308,45,F,United States,visa,2,480,Electronics,1/10/2023,71,0
+309,50,F,Canada,mastercard,13,422,Music,1/11/2023,54,1
+310,49,M,United States,mastercard,38,48,Grocery,1/9/2023,23,1
+311,42,F,Canada,americanexpress,7,210,Electronics,1/7/2023,60,0
+312,54,M,United States,visa,36,212,Home,1/11/2023,83,1
+313,37,M,United Kingdom,visa,9,121,Garden,1/9/2023,56,1
+314,57,M,Canada,visa,7,267,Clothing,1/8/2023,53,1
+315,33,F,Mexico,visa,11,254,Jewelry,1/9/2023,43,1
+316,73,M,Canada,visa,20,406,Jewelry,1/10/2023,93,0
+317,67,M,United States,americanexpress,4,462,Kids,1/10/2023,64,1
+318,21,F,Mexico,mastercard,14,88,Sports,1/7/2023,33,0
+319,64,F,Mexico,americanexpress,3,341,Kids,1/9/2023,39,1
+320,61,M,United States,mastercard,15,199,Automotive,1/9/2023,39,1
+321,29,F,United States,visa,34,394,Automotive,1/10/2023,108,0
+322,21,F,United States,visa,5,98,Health,1/8/2023,98,0
+323,39,F,United States,americanexpress,31,21,Automotive,1/8/2023,110,0
+324,71,F,Canada,visa,11,223,Jewelry,1/9/2023,69,0
+325,71,F,Canada,mastercard,4,148,Tools,1/8/2023,62,1
+326,70,M,United States,mastercard,48,472,Computers,1/9/2023,107,1
+327,59,M,Mexico,visa,5,344,Automotive,1/11/2023,103,1
+328,24,F,United States,americanexpress,34,120,Outdoors,1/11/2023,102,0
+329,46,M,United States,mastercard,23,467,Music,1/10/2023,8,1
+330,30,M,United States,americanexpress,6,76,Computers,1/11/2023,68,0
+331,70,M,United States,visa,14,137,Health,1/11/2023,106,1
+332,25,M,Mexico,mastercard,29,196,Automotive,1/10/2023,60,0
+333,47,M,Mexico,americanexpress,34,63,Baby,1/9/2023,31,1
+334,40,M,Mexico,americanexpress,24,167,Health,1/7/2023,29,0
+335,20,F,Mexico,visa,33,451,Books,1/11/2023,49,1
+336,74,M,Canada,americanexpress,46,392,Home,1/7/2023,98,0
+337,40,F,Canada,visa,48,434,Games,1/9/2023,38,0
+338,21,M,United Kingdom,mastercard,40,138,Baby,1/8/2023,16,1
+339,25,F,United States,americanexpress,2,475,Clothing,1/7/2023,123,0
+340,33,F,Mexico,mastercard,2,297,Electronics,1/7/2023,47,1
+341,20,F,United States,mastercard,28,59,Beauty,1/7/2023,52,0
+342,62,M,United Kingdom,mastercard,29,100,Baby,1/9/2023,76,0
+343,34,M,Canada,americanexpress,28,182,Games,1/10/2023,36,1
+344,34,F,United States,visa,20,80,Industrial,1/11/2023,23,0
+345,65,M,Canada,mastercard,46,289,Computers,1/11/2023,43,0
+346,27,M,United States,mastercard,39,275,Movies,1/9/2023,13,0
+347,74,M,Mexico,americanexpress,22,53,Tools,1/7/2023,53,1
+348,56,M,United States,visa,31,267,Movies,1/11/2023,94,1
+349,66,F,United States,visa,24,240,Sports,1/10/2023,10,1
+350,29,F,Mexico,americanexpress,18,22,Grocery,1/7/2023,120,1
+351,59,F,Mexico,mastercard,50,81,Kids,1/8/2023,93,0
+352,47,M,United States,americanexpress,38,305,Baby,1/7/2023,110,0
+353,22,M,Mexico,visa,11,194,Automotive,1/11/2023,122,1
+354,48,M,Canada,visa,33,435,Outdoors,1/10/2023,63,0
+355,38,F,United States,visa,40,268,Clothing,1/11/2023,39,0
+356,34,M,United States,visa,33,176,Home,1/8/2023,110,0
+357,34,M,Canada,mastercard,37,38,Shoes,1/9/2023,37,0
+358,37,F,Mexico,visa,29,366,Grocery,1/7/2023,52,0
+359,51,M,Mexico,mastercard,42,369,Electronics,1/7/2023,43,0
+360,31,F,Canada,visa,21,196,Automotive,1/10/2023,118,1
+361,29,M,Canada,visa,33,309,Baby,1/11/2023,50,0
+362,45,M,Mexico,visa,20,430,Tools,1/7/2023,22,0
+363,35,F,Canada,americanexpress,27,77,Music,1/8/2023,98,0
+364,31,F,United States,americanexpress,18,106,Grocery,1/11/2023,93,0
+365,30,M,Canada,mastercard,38,444,Movies,1/7/2023,36,1
+366,32,M,United States,visa,29,121,Sports,1/7/2023,120,1
+367,34,M,Canada,visa,24,131,Garden,1/11/2023,88,0
+368,58,F,Canada,americanexpress,7,324,Grocery,1/9/2023,23,1
+369,61,M,Canada,mastercard,15,294,Kids,1/10/2023,93,0
+370,42,F,United States,americanexpress,50,382,Books,1/10/2023,57,1
+371,23,F,Mexico,americanexpress,18,322,Toys,1/11/2023,74,1
+372,48,F,Mexico,americanexpress,2,146,Outdoors,1/8/2023,83,1
+373,69,M,United States,mastercard,47,181,Home,1/10/2023,69,0
+374,31,M,Mexico,mastercard,5,53,Kids,1/10/2023,20,0
+375,66,M,United States,visa,5,168,Movies,1/11/2023,49,1
+376,44,F,United States,mastercard,30,146,Movies,1/8/2023,100,0
+377,67,F,United States,mastercard,10,66,Automotive,1/8/2023,36,1
+378,63,F,United States,mastercard,1,382,Health,1/10/2023,34,0
+379,64,M,Canada,mastercard,46,421,Sports,1/11/2023,121,0
+380,54,F,United States,visa,49,79,Industrial,1/7/2023,91,1
+381,54,F,United States,mastercard,12,162,Grocery,1/11/2023,86,1
+382,34,F,Canada,americanexpress,30,205,Tools,1/11/2023,34,0
+383,59,F,United States,americanexpress,20,442,Toys,1/9/2023,89,1
+384,73,F,United States,americanexpress,34,225,Automotive,1/10/2023,109,1
+385,75,F,Canada,mastercard,37,351,Kids,1/7/2023,22,0
+386,26,F,United States,americanexpress,43,276,Health,1/11/2023,121,1
+387,41,M,Mexico,visa,17,51,Clothing,1/7/2023,25,1
+388,36,F,Mexico,mastercard,47,270,Grocery,1/7/2023,39,0
+389,63,M,Mexico,mastercard,4,276,Tools,1/11/2023,41,1
+390,50,M,United States,mastercard,34,322,Shoes,1/8/2023,13,0
+391,62,F,United States,americanexpress,5,31,Garden,1/9/2023,64,1
+392,64,F,United States,mastercard,23,22,Jewelry,1/9/2023,111,1
+393,52,M,United States,visa,26,250,Clothing,1/7/2023,106,0
+394,52,F,United States,visa,16,33,Tools,1/8/2023,83,0
+395,20,M,Mexico,americanexpress,20,264,Music,1/8/2023,74,0
+396,41,F,United States,americanexpress,28,193,Electronics,1/9/2023,99,1
+397,46,F,United States,visa,30,197,Home,1/9/2023,18,1
+398,71,F,Canada,americanexpress,48,77,Computers,1/10/2023,105,0
+399,71,F,United States,mastercard,33,409,Industrial,1/11/2023,14,0
+400,31,F,United States,mastercard,44,429,Books,1/9/2023,34,0
+401,50,F,United States,americanexpress,37,40,Sports,1/7/2023,104,1
+402,45,F,Canada,mastercard,18,448,Automotive,1/7/2023,9,0
+403,65,F,United States,visa,10,166,Toys,1/7/2023,8,0
+404,67,F,United States,mastercard,16,418,Sports,1/9/2023,76,1
+405,29,F,Mexico,americanexpress,3,80,Garden,1/7/2023,50,1
+406,50,F,United States,mastercard,43,244,Jewelry,1/7/2023,106,0
+407,51,M,Mexico,americanexpress,21,478,Sports,1/10/2023,19,0
+408,60,F,Canada,mastercard,17,287,Computers,1/10/2023,3,0
+409,74,F,Mexico,americanexpress,50,127,Baby,1/9/2023,43,1
+410,63,M,Canada,visa,6,221,Jewelry,1/11/2023,60,0
+411,32,M,Mexico,visa,15,34,Computers,1/9/2023,56,1
+412,24,F,Mexico,mastercard,10,169,Electronics,1/10/2023,49,1
+413,26,M,United States,americanexpress,6,338,Books,1/8/2023,65,1
+414,54,F,United States,americanexpress,2,290,Kids,1/10/2023,95,1
+415,38,F,United States,visa,18,337,Electronics,1/8/2023,97,1
+416,70,M,United States,mastercard,6,165,Sports,1/8/2023,101,0
+417,75,F,Canada,americanexpress,44,113,Books,1/11/2023,102,0
+418,47,F,Canada,mastercard,4,153,Automotive,1/8/2023,23,1
+419,40,F,United Kingdom,mastercard,5,264,Movies,1/11/2023,60,1
+420,41,F,United States,americanexpress,15,381,Home,1/8/2023,91,1
+421,29,M,Canada,americanexpress,15,343,Computers,1/10/2023,14,1
+422,62,F,United States,americanexpress,19,139,Garden,1/11/2023,65,1
+423,65,M,United States,visa,24,120,Beauty,1/7/2023,107,1
+424,42,F,United States,americanexpress,30,51,Grocery,1/11/2023,46,1
+425,75,F,Mexico,americanexpress,33,214,Music,1/9/2023,8,1
+426,24,F,Mexico,americanexpress,30,138,Industrial,1/8/2023,102,0
+427,21,M,United States,americanexpress,18,185,Automotive,1/9/2023,4,1
+428,74,M,Canada,visa,31,270,Tools,1/11/2023,115,0
+429,24,F,United States,americanexpress,15,96,Beauty,1/10/2023,68,1
+430,38,F,Canada,mastercard,10,192,Books,1/9/2023,80,0
+431,62,F,United States,visa,30,266,Automotive,1/11/2023,52,1
+432,51,M,Mexico,americanexpress,3,76,Books,1/9/2023,62,0
+433,54,M,United Kingdom,mastercard,32,280,Books,1/11/2023,5,0
+434,25,F,Canada,visa,29,348,Outdoors,1/9/2023,37,0
+435,71,M,United States,americanexpress,40,300,Books,1/7/2023,13,1
+436,71,F,United States,mastercard,44,257,Sports,1/8/2023,12,1
+437,20,F,Canada,americanexpress,12,354,Clothing,1/9/2023,27,1
+438,67,M,United States,mastercard,17,420,Kids,1/11/2023,50,0
+439,64,F,United States,visa,38,405,Jewelry,1/9/2023,8,1
+440,67,M,United States,visa,33,141,Books,1/8/2023,84,0
+441,41,M,United States,visa,15,249,Books,1/9/2023,24,1
+442,36,M,Canada,mastercard,23,423,Shoes,1/11/2023,88,0
+443,51,M,United States,visa,39,199,Health,1/9/2023,96,0
+444,55,M,Mexico,visa,50,159,Books,1/11/2023,19,1
+445,47,F,United States,americanexpress,11,86,Books,1/10/2023,108,1
+446,38,M,Mexico,americanexpress,41,72,Jewelry,1/10/2023,99,0
+447,65,F,Canada,mastercard,44,481,Electronics,1/10/2023,15,0
+448,62,M,Canada,visa,23,81,Sports,1/8/2023,55,1
+449,27,M,United Kingdom,americanexpress,2,310,Computers,1/7/2023,64,1
+450,66,F,Mexico,mastercard,42,175,Computers,1/9/2023,103,1
+451,62,M,Canada,americanexpress,1,161,Automotive,1/10/2023,50,1
+452,42,F,United States,mastercard,8,194,Music,1/11/2023,112,0
+453,53,F,United States,mastercard,40,276,Computers,1/7/2023,106,1
+454,37,F,Mexico,mastercard,38,318,Electronics,1/11/2023,76,0
+455,52,M,Canada,visa,32,90,Health,1/8/2023,19,1
+456,54,M,Mexico,visa,36,128,Garden,1/8/2023,56,0
+457,74,F,United States,visa,33,285,Outdoors,1/8/2023,58,0
+458,59,F,Mexico,visa,29,255,Garden,1/10/2023,34,1
+459,23,F,United States,mastercard,5,456,Garden,1/11/2023,22,1
+460,26,M,United States,americanexpress,27,189,Shoes,1/10/2023,92,0
+461,33,F,United States,americanexpress,48,371,Health,1/8/2023,7,1
+462,56,F,United States,visa,9,414,Movies,1/11/2023,12,0
+463,33,F,United States,visa,19,71,Sports,1/11/2023,50,1
+464,25,F,United States,mastercard,12,130,Baby,1/11/2023,78,0
+465,40,M,Mexico,mastercard,33,106,Tools,1/7/2023,85,1
+466,48,F,Canada,mastercard,12,304,Jewelry,1/9/2023,72,1
+467,44,F,United States,visa,48,420,Jewelry,1/8/2023,37,1
+468,20,F,United States,americanexpress,49,441,Games,1/10/2023,85,0
+469,27,M,United States,americanexpress,1,241,Outdoors,1/7/2023,104,0
+470,50,M,Canada,americanexpress,46,212,Games,1/9/2023,122,1
+471,62,F,Mexico,mastercard,26,171,Automotive,1/11/2023,63,0
+472,58,M,Canada,visa,32,278,Toys,1/8/2023,64,1
+473,75,M,Canada,americanexpress,39,66,Health,1/11/2023,97,1
+474,71,M,Mexico,visa,38,232,Home,1/11/2023,92,1
+475,55,M,United States,americanexpress,1,150,Industrial,1/9/2023,72,0
+476,48,M,United States,visa,46,55,Clothing,1/7/2023,11,1
+477,20,M,Canada,americanexpress,18,329,Music,1/11/2023,119,0
+478,33,F,Mexico,mastercard,27,378,Music,1/8/2023,101,1
+479,60,M,Canada,visa,40,397,Beauty,1/7/2023,11,1
+480,73,M,United States,visa,15,259,Electronics,1/9/2023,83,1
+481,69,F,United States,visa,8,317,Beauty,1/10/2023,49,1
+482,56,F,United States,mastercard,21,69,Home,1/11/2023,119,0
+483,22,M,Mexico,mastercard,34,132,Industrial,1/7/2023,74,0
+484,67,M,Canada,visa,35,370,Home,1/7/2023,79,0
+485,37,M,Mexico,americanexpress,24,166,Kids,1/9/2023,28,0
+486,65,M,United States,visa,39,220,Games,1/10/2023,62,1
+487,20,M,United States,mastercard,15,280,Clothing,1/9/2023,10,1
+488,65,M,United Kingdom,visa,20,79,Computers,1/8/2023,114,1
+489,67,M,United States,americanexpress,8,338,Jewelry,1/11/2023,66,1
+490,29,F,United Kingdom,americanexpress,6,316,Toys,1/11/2023,114,1
+491,39,F,United States,mastercard,45,457,Outdoors,1/9/2023,70,1
+492,74,M,United States,visa,26,477,Grocery,1/8/2023,102,1
+493,65,M,United States,visa,28,236,Grocery,1/10/2023,63,1
+494,29,F,United States,visa,24,294,Grocery,1/11/2023,69,0
+495,32,F,Canada,visa,3,162,Kids,1/10/2023,64,0
+496,37,M,Canada,americanexpress,1,333,Books,1/7/2023,117,0
+497,34,M,Mexico,mastercard,8,445,Health,1/11/2023,27,1
+498,51,F,Mexico,visa,50,225,Clothing,1/11/2023,17,0
+499,23,M,United States,americanexpress,4,464,Kids,1/8/2023,48,1
+500,72,M,United States,visa,39,98,Jewelry,1/7/2023,68,0
+501,28,F,United States,visa,21,288,Baby,1/8/2023,114,1
+502,68,M,Mexico,mastercard,20,169,Kids,1/8/2023,118,1
+503,73,F,United Kingdom,visa,29,440,Health,1/11/2023,34,0
+504,72,M,United States,mastercard,15,135,Garden,1/9/2023,118,0
+505,41,F,United States,visa,23,318,Outdoors,1/9/2023,29,1
+506,63,M,United States,mastercard,31,58,Movies,1/10/2023,107,0
+507,42,F,Mexico,visa,31,230,Movies,1/11/2023,100,0
+508,75,F,Canada,mastercard,20,198,Outdoors,1/11/2023,17,1
+509,31,M,United States,mastercard,25,195,Games,1/9/2023,107,1
+510,57,M,Canada,americanexpress,37,39,Electronics,1/8/2023,96,0
+511,66,M,United States,mastercard,23,435,Toys,1/8/2023,43,0
+512,26,F,United States,americanexpress,24,228,Automotive,1/11/2023,107,0
+513,52,M,Canada,mastercard,9,463,Jewelry,1/10/2023,15,0
+514,41,M,United States,americanexpress,47,186,Shoes,1/7/2023,25,1
+515,48,F,United States,mastercard,19,302,Health,1/7/2023,40,1
+516,37,M,United States,mastercard,30,251,Health,1/7/2023,4,1
+517,75,F,United States,americanexpress,4,479,Music,1/8/2023,47,0
+518,57,M,Mexico,visa,48,193,Kids,1/8/2023,116,1
+519,65,F,Canada,visa,41,47,Industrial,1/11/2023,27,0
+520,34,F,Mexico,visa,9,323,Sports,1/9/2023,98,1
+521,26,F,Mexico,americanexpress,39,288,Electronics,1/10/2023,85,0
+522,72,F,United States,mastercard,49,274,Tools,1/11/2023,27,1
+523,49,M,United Kingdom,americanexpress,15,476,Electronics,1/7/2023,27,0
+524,52,M,United States,mastercard,29,359,Books,1/8/2023,23,1
+525,28,F,United States,mastercard,5,221,Kids,1/8/2023,60,1
+526,32,F,United States,americanexpress,20,215,Books,1/8/2023,27,0
+527,71,F,Canada,visa,26,357,Books,1/7/2023,122,1
+528,53,F,Mexico,mastercard,39,64,Outdoors,1/8/2023,32,1
+529,72,F,United States,visa,10,48,Kids,1/7/2023,95,1
+530,45,M,United States,visa,27,366,Industrial,1/11/2023,9,1
+531,42,M,Mexico,americanexpress,42,333,Jewelry,1/7/2023,28,1
+532,66,M,United States,visa,4,389,Outdoors,1/8/2023,44,0
+533,59,F,Mexico,mastercard,4,391,Books,1/11/2023,122,1
+534,38,F,United States,mastercard,27,383,Baby,1/8/2023,46,1
+535,36,M,Canada,visa,37,174,Movies,1/9/2023,100,1
+536,64,F,Mexico,americanexpress,44,402,Health,1/11/2023,88,0
+537,42,M,United States,visa,25,464,Automotive,1/11/2023,68,0
+538,22,M,Mexico,visa,48,445,Music,1/7/2023,1,1
+539,25,M,United States,mastercard,23,337,Games,1/9/2023,20,0
+540,58,M,United States,visa,26,126,Baby,1/8/2023,23,0
+541,31,M,United Kingdom,americanexpress,26,350,Outdoors,1/10/2023,33,1
+542,27,M,Canada,mastercard,26,106,Movies,1/10/2023,108,1
+543,24,M,Canada,visa,13,148,Automotive,1/9/2023,122,0
+544,51,M,Canada,visa,20,56,Sports,1/7/2023,16,0
+545,23,F,Canada,visa,5,470,Kids,1/9/2023,89,0
+546,71,F,United States,americanexpress,22,97,Outdoors,1/7/2023,34,0
+547,27,F,United States,mastercard,19,199,Clothing,1/10/2023,23,1
+548,75,F,United States,mastercard,43,231,Automotive,1/10/2023,116,1
+549,36,M,Mexico,mastercard,30,274,Games,1/11/2023,37,1
+550,74,M,Canada,visa,40,42,Kids,1/9/2023,22,0
+551,63,F,United States,americanexpress,41,209,Jewelry,1/10/2023,74,0
+552,47,F,United States,americanexpress,31,422,Books,1/7/2023,123,0
+553,44,M,United States,americanexpress,4,207,Health,1/8/2023,1,1
+554,22,F,United States,mastercard,48,197,Jewelry,1/8/2023,94,0
+555,48,M,United States,mastercard,46,409,Grocery,1/9/2023,20,1
+556,61,F,United States,visa,41,318,Computers,1/7/2023,11,1
+557,53,F,Canada,visa,36,403,Beauty,1/8/2023,103,0
+558,63,F,Canada,visa,46,33,Books,1/10/2023,72,1
+559,60,M,United States,americanexpress,48,301,Sports,1/10/2023,58,1
+560,51,F,Canada,americanexpress,28,325,Kids,1/10/2023,99,0
+561,33,F,Mexico,visa,38,228,Grocery,1/7/2023,1,1
+562,64,M,United States,visa,14,359,Garden,1/11/2023,17,0
+563,24,F,United States,visa,23,275,Electronics,1/8/2023,70,1
+564,33,M,United States,mastercard,27,274,Sports,1/8/2023,35,1
+565,32,M,United States,mastercard,30,81,Toys,1/11/2023,50,1
+566,72,M,Canada,visa,22,57,Baby,1/7/2023,33,1
+567,42,F,United States,visa,31,221,Outdoors,1/8/2023,76,1
+568,49,M,Canada,mastercard,42,28,Computers,1/8/2023,64,1
+569,60,M,Mexico,americanexpress,16,437,Industrial,1/10/2023,79,0
+570,63,M,Mexico,mastercard,19,442,Clothing,1/9/2023,61,1
+571,38,M,Canada,visa,45,217,Beauty,1/8/2023,4,1
+572,43,M,United States,visa,22,344,Electronics,1/11/2023,97,0
+573,60,M,Canada,mastercard,35,150,Industrial,1/10/2023,67,0
+574,38,M,United States,visa,14,352,Beauty,1/11/2023,67,1
+575,37,M,United States,visa,46,249,Tools,1/9/2023,32,1
+576,64,F,Mexico,visa,42,431,Toys,1/8/2023,35,1
+577,49,F,Canada,mastercard,27,391,Outdoors,1/11/2023,12,0
+578,62,F,United States,visa,16,74,Health,1/7/2023,72,1
+579,36,M,United Kingdom,visa,10,121,Computers,1/8/2023,77,0
+580,48,F,Canada,americanexpress,32,286,Music,1/9/2023,36,0
+581,46,M,United States,americanexpress,29,331,Automotive,1/7/2023,76,0
+582,54,F,Mexico,mastercard,27,193,Health,1/8/2023,121,1
+583,62,M,Mexico,visa,14,246,Clothing,1/11/2023,81,1
+584,37,M,Canada,visa,25,171,Music,1/8/2023,42,0
+585,67,F,United States,americanexpress,29,28,Computers,1/11/2023,68,0
+586,62,M,Canada,mastercard,1,212,Tools,1/11/2023,18,0
+587,42,F,Mexico,visa,47,50,Grocery,1/11/2023,14,1
+588,69,F,Canada,mastercard,35,376,Music,1/7/2023,2,0
+589,28,M,Mexico,visa,19,403,Jewelry,1/7/2023,57,1
+590,30,M,Canada,americanexpress,41,176,Music,1/10/2023,47,0
+591,51,F,United States,visa,22,81,Computers,1/9/2023,122,1
+592,66,M,United Kingdom,visa,39,180,Games,1/7/2023,5,1
+593,62,F,Mexico,mastercard,29,407,Books,1/7/2023,36,0
+594,72,M,Mexico,mastercard,1,480,Sports,1/11/2023,112,0
+595,47,M,United States,mastercard,24,426,Clothing,1/10/2023,22,0
+596,45,F,United States,mastercard,19,244,Outdoors,1/7/2023,6,1
+597,35,F,United States,americanexpress,11,185,Computers,1/7/2023,118,1
+598,65,F,United States,americanexpress,20,129,Electronics,1/10/2023,38,0
+599,33,F,Mexico,americanexpress,4,191,Baby,1/10/2023,98,1
+600,24,M,Mexico,americanexpress,38,205,Books,1/10/2023,28,1
+601,49,F,United States,visa,49,31,Computers,1/11/2023,32,0
+602,27,F,Mexico,mastercard,26,370,Outdoors,1/9/2023,108,0
+603,50,M,United States,visa,50,218,Shoes,1/10/2023,93,0
+604,35,F,United States,visa,41,244,Sports,1/11/2023,62,1
+605,25,F,United States,visa,50,361,Grocery,1/10/2023,27,1
+606,48,M,United States,visa,17,206,Beauty,1/8/2023,16,1
+607,37,M,Mexico,visa,19,286,Movies,1/9/2023,24,0
+608,62,M,Mexico,americanexpress,11,327,Toys,1/8/2023,31,0
+609,33,M,Mexico,mastercard,32,166,Baby,1/8/2023,5,1
+610,39,F,Mexico,americanexpress,9,117,Electronics,1/11/2023,81,1
+611,28,F,Mexico,visa,28,68,Beauty,1/7/2023,52,1
+612,40,M,United Kingdom,americanexpress,20,270,Grocery,1/10/2023,63,0
+613,73,F,Canada,visa,47,39,Garden,1/8/2023,39,0
+614,65,M,United Kingdom,americanexpress,25,208,Home,1/11/2023,52,1
+615,43,M,Mexico,mastercard,30,279,Automotive,1/8/2023,77,0
+616,41,F,United States,visa,24,196,Games,1/9/2023,20,0
+617,60,M,Canada,mastercard,3,20,Beauty,1/9/2023,82,1
+618,46,F,Mexico,visa,4,269,Grocery,1/10/2023,104,1
+619,50,F,Canada,mastercard,37,357,Tools,1/10/2023,62,1
+620,40,M,United States,visa,5,421,Movies,1/10/2023,57,1
+621,75,F,Canada,mastercard,9,283,Baby,1/7/2023,25,0
+622,41,M,Mexico,americanexpress,36,192,Books,1/8/2023,2,0
+623,68,M,Canada,americanexpress,21,251,Toys,1/9/2023,88,0
+624,65,F,United States,visa,40,75,Kids,1/11/2023,30,0
+625,56,F,United States,mastercard,14,104,Electronics,1/10/2023,81,1
+626,70,F,Canada,mastercard,30,143,Shoes,1/9/2023,21,0
+627,43,M,United States,americanexpress,36,181,Baby,1/9/2023,18,1
+628,41,M,United States,visa,40,286,Books,1/8/2023,99,1
+629,42,M,Mexico,visa,24,200,Games,1/7/2023,68,1
+630,23,F,Canada,mastercard,48,139,Electronics,1/10/2023,27,0
+631,68,F,Mexico,visa,25,416,Industrial,1/9/2023,8,1
+632,34,F,United States,americanexpress,13,305,Outdoors,1/7/2023,119,0
+633,31,M,Mexico,americanexpress,17,108,Music,1/7/2023,101,1
+634,58,M,Mexico,americanexpress,24,436,Movies,1/9/2023,111,1
+635,69,M,United States,visa,4,41,Jewelry,1/10/2023,21,0
+636,67,F,United States,americanexpress,8,301,Automotive,1/9/2023,87,1
+637,21,M,United States,americanexpress,32,252,Tools,1/9/2023,3,0
+638,64,M,Canada,visa,41,411,Baby,1/11/2023,120,0
+639,63,F,Mexico,americanexpress,11,263,Beauty,1/11/2023,76,0
+640,55,F,Mexico,visa,12,288,Baby,1/9/2023,7,0
+641,67,M,United States,visa,42,430,Computers,1/10/2023,115,1
+642,32,F,Canada,americanexpress,48,385,Movies,1/9/2023,25,1
+643,59,F,United States,americanexpress,47,439,Grocery,1/7/2023,74,1
+644,48,M,Canada,mastercard,39,385,Garden,1/7/2023,39,0
+645,74,F,Canada,americanexpress,5,71,Games,1/7/2023,34,0
+646,44,M,United States,mastercard,20,392,Jewelry,1/9/2023,19,1
+647,72,M,United States,mastercard,47,104,Industrial,1/10/2023,80,0
+648,59,F,United States,americanexpress,18,362,Sports,1/10/2023,79,0
+649,45,M,United States,americanexpress,17,277,Games,1/7/2023,65,1
+650,58,F,United States,mastercard,35,151,Movies,1/11/2023,33,1
+651,30,M,United States,visa,49,276,Shoes,1/8/2023,118,1
+652,57,F,United States,americanexpress,29,339,Clothing,1/10/2023,60,0
+653,74,M,United States,visa,8,264,Outdoors,1/11/2023,23,1
+654,59,F,Canada,mastercard,4,212,Electronics,1/7/2023,85,0
+655,65,M,Mexico,americanexpress,49,431,Electronics,1/11/2023,68,1
+656,23,M,Canada,mastercard,25,266,Games,1/10/2023,103,1
+657,37,M,United States,americanexpress,26,221,Baby,1/7/2023,50,1
+658,30,F,United States,americanexpress,25,348,Games,1/10/2023,41,1
+659,29,F,Mexico,visa,3,373,Home,1/9/2023,22,1
+660,21,M,United States,mastercard,35,126,Health,1/7/2023,10,1
+661,62,F,United States,americanexpress,47,149,Industrial,1/7/2023,52,0
+662,31,F,Canada,visa,23,477,Tools,1/7/2023,72,1
+663,60,M,United States,visa,21,187,Tools,1/8/2023,41,1
+664,72,F,United States,mastercard,50,95,Electronics,1/7/2023,46,1
+665,34,F,United Kingdom,mastercard,6,137,Industrial,1/10/2023,23,0
+666,67,M,Canada,visa,42,312,Home,1/9/2023,81,1
+667,34,M,United States,visa,39,28,Home,1/7/2023,112,1
+668,70,F,Canada,americanexpress,44,76,Toys,1/9/2023,47,0
+669,64,M,United States,americanexpress,28,437,Clothing,1/10/2023,92,0
+670,23,F,Canada,americanexpress,25,427,Electronics,1/7/2023,30,0
+671,35,M,United States,visa,45,267,Books,1/8/2023,36,1
+672,43,M,United Kingdom,americanexpress,43,266,Outdoors,1/9/2023,92,0
+673,66,F,United States,visa,24,332,Baby,1/8/2023,55,1
+674,35,F,United States,americanexpress,33,293,Tools,1/9/2023,60,0
+675,27,F,United States,americanexpress,4,405,Health,1/9/2023,5,0
+676,29,F,United States,americanexpress,13,269,Games,1/10/2023,90,1
+677,48,M,United States,mastercard,8,384,Tools,1/11/2023,19,1
+678,34,F,Canada,americanexpress,37,261,Sports,1/8/2023,10,0
+679,47,M,Mexico,americanexpress,21,49,Industrial,1/11/2023,43,0
+680,74,F,United States,mastercard,11,59,Shoes,1/8/2023,65,1
+681,32,F,United States,visa,15,331,Tools,1/11/2023,49,0
+682,46,M,Mexico,visa,7,28,Garden,1/8/2023,12,1
+683,24,M,Canada,mastercard,48,25,Health,1/10/2023,97,1
+684,61,M,Mexico,mastercard,26,123,Baby,1/9/2023,85,0
+685,51,M,Canada,mastercard,4,270,Toys,1/7/2023,18,1
+686,21,M,United States,americanexpress,35,270,Grocery,1/10/2023,43,1
+687,70,M,Canada,americanexpress,34,345,Tools,1/9/2023,118,0
+688,55,M,United Kingdom,americanexpress,13,288,Shoes,1/8/2023,98,0
+689,34,M,United States,visa,3,85,Industrial,1/10/2023,91,0
+690,34,F,Mexico,mastercard,29,236,Computers,1/8/2023,60,0
+691,32,M,Canada,americanexpress,16,344,Movies,1/10/2023,69,0
+692,69,M,United States,visa,28,149,Jewelry,1/8/2023,48,0
+693,71,M,Canada,visa,25,127,Toys,1/7/2023,71,1
+694,28,F,Canada,americanexpress,40,188,Health,1/9/2023,64,0
+695,41,F,United States,americanexpress,21,323,Outdoors,1/11/2023,76,1
+696,64,M,United States,americanexpress,50,203,Kids,1/11/2023,83,1
+697,40,F,United States,americanexpress,2,299,Garden,1/11/2023,100,0
+698,35,F,Mexico,mastercard,44,111,Grocery,1/7/2023,103,0
+699,62,M,Mexico,visa,48,306,Shoes,1/9/2023,75,1
+700,24,M,Canada,visa,36,83,Garden,1/7/2023,123,1
+701,42,F,Canada,mastercard,42,33,Kids,1/8/2023,120,0
+702,73,F,United States,americanexpress,7,76,Automotive,1/10/2023,34,1
+703,20,F,Mexico,visa,13,465,Beauty,1/9/2023,59,0
+704,70,M,Canada,visa,17,433,Computers,1/11/2023,57,0
+705,20,F,Mexico,mastercard,7,301,Home,1/8/2023,101,0
+706,75,F,United States,visa,44,405,Health,1/7/2023,9,1
+707,37,M,United States,mastercard,37,143,Grocery,1/11/2023,59,1
+708,69,F,United States,visa,35,131,Industrial,1/10/2023,50,1
+709,40,M,Mexico,visa,37,286,Movies,1/9/2023,66,1
+710,41,F,United States,americanexpress,40,401,Books,1/11/2023,9,0
+711,38,F,Mexico,mastercard,29,366,Games,1/7/2023,30,1
+712,34,M,Mexico,mastercard,34,88,Baby,1/7/2023,29,0
+713,67,M,United States,visa,40,144,Tools,1/7/2023,94,1
+714,58,F,Canada,americanexpress,10,98,Tools,1/7/2023,79,1
+715,56,M,United States,visa,17,372,Books,1/10/2023,19,0
+716,65,M,United States,mastercard,42,191,Toys,1/7/2023,29,1
+717,66,F,Mexico,visa,3,376,Kids,1/8/2023,24,1
+718,56,M,Canada,visa,22,65,Electronics,1/7/2023,15,0
+719,25,M,United States,visa,26,215,Beauty,1/9/2023,113,1
+720,75,F,Canada,mastercard,38,267,Industrial,1/8/2023,16,0
+721,23,M,United Kingdom,mastercard,45,368,Books,1/8/2023,99,1
+722,35,F,Canada,mastercard,5,333,Grocery,1/8/2023,99,0
+723,61,M,Canada,americanexpress,31,200,Home,1/10/2023,54,0
+724,62,M,United States,mastercard,17,169,Sports,1/7/2023,24,0
+725,25,M,United States,visa,5,315,Clothing,1/7/2023,62,1
+726,68,M,Mexico,visa,15,66,Grocery,1/8/2023,87,0
+727,23,F,Mexico,visa,19,249,Games,1/9/2023,78,0
+728,50,F,Mexico,visa,34,287,Kids,1/9/2023,104,0
+729,31,F,Canada,americanexpress,32,357,Music,1/10/2023,63,1
+730,33,M,United States,mastercard,47,302,Shoes,1/7/2023,78,0
+731,40,M,United States,americanexpress,7,411,Kids,1/9/2023,58,0
+732,59,F,Canada,mastercard,38,434,Toys,1/10/2023,76,0
+733,67,F,Canada,mastercard,49,144,Beauty,1/10/2023,122,0
+734,50,M,United States,mastercard,11,272,Kids,1/11/2023,30,1
+735,69,F,United States,visa,49,220,Computers,1/11/2023,96,0
+736,34,M,United States,visa,4,187,Clothing,1/9/2023,44,0
+737,25,M,United States,mastercard,49,388,Games,1/7/2023,61,1
+738,23,F,Mexico,americanexpress,30,332,Music,1/11/2023,2,1
+739,48,F,Canada,americanexpress,10,400,Outdoors,1/10/2023,73,0
+740,48,M,Canada,visa,16,240,Shoes,1/8/2023,103,0
+741,48,F,United States,americanexpress,34,190,Garden,1/10/2023,105,0
+742,42,M,Mexico,americanexpress,34,391,Outdoors,1/11/2023,63,0
+743,67,F,United States,visa,36,271,Shoes,1/8/2023,93,1
+744,27,F,United States,visa,43,310,Outdoors,1/7/2023,87,1
+745,66,M,United States,mastercard,24,480,Music,1/7/2023,43,0
+746,50,M,United States,mastercard,37,319,Garden,1/8/2023,118,1
+747,38,M,United States,visa,47,363,Movies,1/11/2023,34,1
+748,35,F,United States,americanexpress,15,303,Movies,1/11/2023,35,0
+749,50,F,Mexico,americanexpress,41,243,Beauty,1/10/2023,84,1
+750,31,M,Mexico,americanexpress,11,360,Kids,1/10/2023,19,0
+751,53,M,Mexico,visa,9,229,Clothing,1/7/2023,66,1
+752,24,M,United States,visa,28,44,Grocery,1/11/2023,45,0
+753,71,M,United States,mastercard,4,280,Garden,1/9/2023,14,0
+754,75,M,Mexico,mastercard,29,29,Books,1/8/2023,100,1
+755,59,M,Mexico,americanexpress,1,362,Computers,1/8/2023,71,1
+756,29,M,Canada,americanexpress,34,230,Grocery,1/9/2023,80,0
+757,69,M,United States,mastercard,12,366,Tools,1/9/2023,102,0
+758,51,F,United States,mastercard,7,317,Toys,1/8/2023,83,1
+759,75,M,United States,mastercard,34,62,Electronics,1/10/2023,69,0
+760,39,F,United States,americanexpress,12,439,Clothing,1/9/2023,26,1
+761,28,F,United States,americanexpress,12,101,Sports,1/7/2023,116,0
+762,49,M,Mexico,visa,29,145,Grocery,1/10/2023,94,0
+763,38,M,Mexico,mastercard,34,402,Movies,1/8/2023,52,1
+764,41,M,United States,americanexpress,18,240,Movies,1/8/2023,63,1
+765,59,F,United States,americanexpress,39,343,Electronics,1/11/2023,93,0
+766,54,F,Canada,visa,4,72,Garden,1/7/2023,1,1
+767,41,F,United Kingdom,americanexpress,6,48,Automotive,1/11/2023,107,0
+768,67,M,United States,americanexpress,1,55,Tools,1/8/2023,63,1
+769,28,M,United States,americanexpress,13,126,Shoes,1/8/2023,95,1
+770,68,F,United Kingdom,americanexpress,9,392,Baby,1/11/2023,18,0
+771,56,M,Canada,mastercard,48,181,Computers,1/11/2023,113,0
+772,27,M,Mexico,mastercard,48,352,Music,1/7/2023,61,1
+773,58,M,United States,mastercard,27,96,Shoes,1/10/2023,42,0
+774,69,F,United States,mastercard,10,42,Kids,1/10/2023,117,1
+775,20,F,Mexico,americanexpress,9,30,Music,1/8/2023,76,0
+776,59,M,United States,visa,16,176,Home,1/7/2023,16,1
+777,69,M,United States,americanexpress,29,479,Music,1/11/2023,44,1
+778,32,M,United States,americanexpress,20,138,Toys,1/10/2023,85,1
+779,63,M,Mexico,mastercard,42,147,Garden,1/7/2023,55,1
+780,42,F,United States,visa,7,333,Garden,1/7/2023,23,0
+781,49,F,United States,americanexpress,8,206,Electronics,1/10/2023,26,0
+782,37,M,Canada,americanexpress,50,218,Games,1/10/2023,4,1
+783,28,M,United States,visa,30,92,Electronics,1/7/2023,45,1
+784,36,M,United States,mastercard,2,369,Baby,1/8/2023,22,1
+785,45,M,United States,visa,34,38,Baby,1/8/2023,111,0
+786,33,F,United States,visa,15,105,Electronics,1/10/2023,5,0
+787,71,F,United States,visa,22,54,Grocery,1/11/2023,51,0
+788,21,M,United States,americanexpress,20,333,Books,1/10/2023,60,1
+789,27,M,United States,mastercard,16,138,Beauty,1/10/2023,55,0
+790,64,F,United States,mastercard,27,339,Industrial,1/11/2023,38,0
+791,74,M,United States,americanexpress,44,283,Industrial,1/8/2023,47,0
+792,54,F,United States,americanexpress,28,475,Music,1/8/2023,5,1
+793,30,M,United States,americanexpress,24,323,Shoes,1/11/2023,31,1
+794,73,M,United States,americanexpress,48,443,Home,1/9/2023,58,0
+795,45,F,United States,visa,3,214,Books,1/8/2023,40,0
+796,54,M,United States,visa,37,97,Computers,1/9/2023,66,0
+797,24,F,Mexico,mastercard,36,186,Music,1/7/2023,68,0
+798,36,F,United States,mastercard,7,467,Electronics,1/10/2023,121,1
+799,44,F,Canada,americanexpress,11,229,Movies,1/7/2023,50,1
+800,53,M,United States,visa,41,334,Home,1/10/2023,63,1
+801,32,M,United States,visa,10,256,Automotive,1/8/2023,87,0
+802,54,M,Mexico,americanexpress,12,144,Computers,1/9/2023,96,1
+803,66,F,United States,mastercard,19,470,Games,1/9/2023,37,0
+804,66,M,Canada,visa,38,132,Books,1/7/2023,1,1
+805,29,M,United States,visa,36,147,Beauty,1/11/2023,34,1
+806,49,M,Mexico,americanexpress,27,78,Movies,1/9/2023,108,0
+807,21,F,United States,visa,19,48,Automotive,1/7/2023,10,1
+808,53,M,Mexico,visa,19,54,Grocery,1/9/2023,28,0
+809,74,M,Mexico,mastercard,45,459,Home,1/7/2023,64,1
+810,45,F,Canada,visa,34,295,Clothing,1/10/2023,85,0
+811,68,M,Canada,mastercard,18,90,Garden,1/11/2023,96,1
+812,48,F,Canada,mastercard,42,475,Movies,1/11/2023,66,0
+813,53,F,Canada,americanexpress,7,306,Tools,1/10/2023,75,1
+814,69,M,United States,americanexpress,36,391,Outdoors,1/10/2023,52,0
+815,73,F,United States,visa,46,289,Clothing,1/7/2023,69,1
+816,40,F,Canada,visa,7,225,Electronics,1/7/2023,48,0
+817,34,M,Canada,americanexpress,18,220,Baby,1/10/2023,85,0
+818,52,F,Mexico,americanexpress,9,280,Outdoors,1/10/2023,117,0
+819,50,M,United States,visa,20,42,Beauty,1/10/2023,38,0
+820,42,F,United States,mastercard,48,211,Baby,1/7/2023,10,0
+821,57,M,Mexico,visa,14,312,Books,1/9/2023,65,1
+822,32,F,Canada,visa,23,171,Computers,1/7/2023,7,0
+823,26,F,United States,visa,34,112,Home,1/7/2023,42,0
+824,75,F,United States,mastercard,30,66,Books,1/9/2023,23,0
+825,64,M,United States,visa,38,140,Outdoors,1/7/2023,110,0
+826,42,F,United States,mastercard,44,390,Health,1/9/2023,15,0
+827,46,M,United States,americanexpress,39,251,Industrial,1/7/2023,64,0
+828,24,F,United States,mastercard,40,350,Computers,1/10/2023,18,1
+829,25,M,Mexico,americanexpress,32,456,Games,1/7/2023,10,0
+830,49,F,United States,mastercard,9,227,Beauty,1/8/2023,24,1
+831,69,M,United States,mastercard,50,437,Industrial,1/9/2023,68,0
+832,39,M,Canada,visa,29,39,Sports,1/7/2023,73,1
+833,25,F,United States,americanexpress,2,339,Grocery,1/10/2023,59,1
+834,60,M,United Kingdom,mastercard,43,115,Computers,1/7/2023,78,0
+835,22,F,Mexico,mastercard,18,415,Games,1/8/2023,34,0
+836,38,M,United States,mastercard,40,55,Games,1/11/2023,66,0
+837,66,M,United States,visa,15,367,Jewelry,1/8/2023,86,1
+838,57,F,Mexico,mastercard,18,140,Outdoors,1/10/2023,89,1
+839,31,M,United States,visa,34,304,Home,1/11/2023,112,1
+840,20,M,Mexico,americanexpress,44,338,Books,1/8/2023,41,1
+841,39,F,United States,mastercard,25,402,Garden,1/7/2023,7,1
+842,57,F,Canada,americanexpress,42,183,Grocery,1/10/2023,18,0
+843,72,M,United States,americanexpress,47,278,Outdoors,1/7/2023,29,0
+844,37,M,United States,americanexpress,28,134,Industrial,1/8/2023,40,1
+845,74,M,Mexico,visa,39,424,Shoes,1/9/2023,102,1
+846,62,F,United States,visa,40,127,Health,1/11/2023,123,1
+847,58,F,United States,americanexpress,29,376,Industrial,1/10/2023,27,0
+848,69,M,United States,mastercard,35,168,Grocery,1/10/2023,112,1
+849,51,M,United States,mastercard,38,464,Kids,1/7/2023,7,0
+850,51,M,Mexico,visa,46,58,Grocery,1/9/2023,97,1
+851,67,F,Canada,mastercard,25,166,Movies,1/7/2023,60,0
+852,29,M,Canada,visa,5,348,Garden,1/11/2023,112,1
+853,51,F,Mexico,visa,10,96,Music,1/9/2023,86,1
+854,55,M,Canada,americanexpress,48,471,Books,1/8/2023,97,1
+855,41,F,United States,americanexpress,24,394,Beauty,1/10/2023,61,0
+856,53,M,Mexico,americanexpress,44,311,Kids,1/9/2023,65,1
+857,57,M,United States,mastercard,23,357,Sports,1/11/2023,42,1
+858,41,M,United States,mastercard,34,419,Toys,1/8/2023,98,0
+859,44,M,United States,mastercard,29,128,Health,1/10/2023,94,0
+860,41,F,United States,mastercard,29,186,Health,1/7/2023,32,1
+861,57,M,Mexico,americanexpress,9,204,Games,1/11/2023,73,1
+862,21,F,United States,visa,30,123,Sports,1/9/2023,4,1
+863,51,M,Mexico,americanexpress,9,264,Music,1/9/2023,96,0
+864,47,F,United States,visa,35,247,Books,1/7/2023,76,1
+865,25,M,United States,americanexpress,25,374,Home,1/10/2023,50,1
+866,62,M,United States,mastercard,50,475,Baby,1/9/2023,2,0
+867,22,F,United States,americanexpress,29,425,Outdoors,1/11/2023,23,0
+868,68,M,United States,americanexpress,34,414,Tools,1/8/2023,24,1
+869,46,M,United States,americanexpress,14,211,Home,1/11/2023,19,1
+870,38,M,Canada,americanexpress,5,335,Jewelry,1/9/2023,46,1
+871,55,M,Canada,mastercard,30,400,Outdoors,1/10/2023,94,1
+872,24,F,United States,americanexpress,40,395,Movies,1/11/2023,108,0
+873,45,F,United States,mastercard,38,287,Automotive,1/8/2023,66,1
+874,61,M,Mexico,americanexpress,24,239,Home,1/8/2023,96,1
+875,22,F,Canada,americanexpress,27,459,Shoes,1/7/2023,11,0
+876,24,F,United States,visa,42,80,Baby,1/7/2023,64,0
+877,51,F,Canada,mastercard,41,129,Music,1/10/2023,8,1
+878,48,M,United States,mastercard,26,27,Garden,1/9/2023,64,1
+879,30,M,United States,mastercard,7,418,Movies,1/7/2023,42,0
+880,38,F,United States,visa,46,284,Music,1/7/2023,64,0
+881,41,M,Canada,mastercard,22,354,Jewelry,1/9/2023,110,1
+882,70,M,United States,mastercard,37,97,Books,1/7/2023,58,0
+883,32,F,Mexico,visa,45,169,Tools,1/8/2023,51,0
+884,68,F,Mexico,americanexpress,49,160,Movies,1/11/2023,72,0
+885,66,M,Canada,visa,50,164,Automotive,1/9/2023,9,1
+886,40,F,United States,americanexpress,30,42,Industrial,1/10/2023,123,0
+887,72,F,Canada,visa,2,453,Jewelry,1/11/2023,45,1
+888,56,M,United States,americanexpress,12,370,Clothing,1/9/2023,29,1
+889,33,M,United States,mastercard,47,197,Industrial,1/8/2023,94,1
+890,53,M,United States,mastercard,28,474,Industrial,1/10/2023,118,1
+891,33,F,Canada,mastercard,40,76,Electronics,1/8/2023,70,0
+892,29,M,United Kingdom,mastercard,42,34,Health,1/8/2023,83,1
+893,59,F,United States,visa,18,460,Electronics,1/11/2023,23,1
+894,25,M,United States,visa,5,230,Industrial,1/8/2023,56,1
+895,55,M,Canada,americanexpress,11,354,Movies,1/10/2023,98,1
+896,45,M,Canada,americanexpress,19,90,Computers,1/11/2023,87,0
+897,21,M,Mexico,visa,44,314,Movies,1/8/2023,103,0
+898,66,F,Mexico,americanexpress,12,39,Books,1/11/2023,11,1
+899,21,M,Canada,americanexpress,42,351,Garden,1/9/2023,53,1
+900,51,M,United States,visa,11,446,Automotive,1/8/2023,22,1
+901,46,F,United States,mastercard,34,192,Beauty,1/8/2023,13,0
+902,51,F,United Kingdom,mastercard,6,468,Movies,1/9/2023,96,1
+903,39,M,United States,americanexpress,20,159,Jewelry,1/9/2023,114,0
+904,34,M,United States,mastercard,17,21,Toys,1/7/2023,112,0
+905,46,F,Mexico,mastercard,18,152,Clothing,1/9/2023,39,0
+906,30,F,Mexico,visa,21,329,Jewelry,1/10/2023,96,1
+907,35,F,United States,mastercard,5,199,Kids,1/11/2023,109,0
+908,30,F,Mexico,visa,30,312,Beauty,1/10/2023,97,0
+909,63,F,United Kingdom,mastercard,22,361,Books,1/7/2023,94,1
+910,43,M,United Kingdom,mastercard,43,437,Garden,1/8/2023,12,0
+911,35,M,United States,visa,31,449,Toys,1/11/2023,109,0
+912,49,M,United States,visa,21,80,Clothing,1/7/2023,63,0
+913,28,F,Mexico,mastercard,29,289,Home,1/11/2023,84,0
+914,73,M,United States,mastercard,44,116,Outdoors,1/9/2023,25,0
+915,72,M,Canada,mastercard,49,417,Beauty,1/11/2023,88,1
+916,43,M,Mexico,mastercard,29,116,Sports,1/8/2023,69,0
+917,68,M,Mexico,mastercard,13,110,Kids,1/9/2023,11,1
+918,68,F,United States,mastercard,23,216,Home,1/10/2023,66,0
+919,57,F,Mexico,mastercard,6,157,Electronics,1/8/2023,57,1
+920,54,M,United States,americanexpress,44,356,Baby,1/9/2023,96,0
+921,46,F,United States,mastercard,47,148,Automotive,1/11/2023,35,1
+922,45,M,Canada,americanexpress,14,133,Electronics,1/11/2023,3,1
+923,21,F,United States,visa,37,196,Baby,1/9/2023,100,0
+924,46,F,Mexico,mastercard,46,120,Games,1/11/2023,65,0
+925,46,M,United States,visa,29,30,Grocery,1/11/2023,88,0
+926,68,M,Mexico,visa,33,104,Automotive,1/8/2023,5,0
+927,38,F,United States,mastercard,43,461,Health,1/8/2023,8,0
+928,51,M,Mexico,mastercard,19,210,Health,1/10/2023,51,0
+929,38,M,United States,visa,27,330,Tools,1/11/2023,110,0
+930,43,M,United States,visa,23,473,Sports,1/9/2023,84,0
+931,54,M,United States,mastercard,3,210,Beauty,1/8/2023,27,0
+932,54,F,United States,americanexpress,5,228,Sports,1/9/2023,43,0
+933,24,F,Canada,mastercard,11,165,Tools,1/10/2023,102,0
+934,41,M,United States,visa,48,145,Jewelry,1/8/2023,32,0
+935,52,F,United Kingdom,visa,22,468,Sports,1/10/2023,47,1
+936,62,F,Canada,mastercard,46,209,Industrial,1/11/2023,110,1
+937,52,F,Canada,mastercard,3,179,Music,1/11/2023,45,1
+938,54,M,United States,visa,18,299,Movies,1/10/2023,8,1
+939,23,F,United States,americanexpress,1,348,Kids,1/10/2023,82,1
+940,52,F,United States,visa,37,139,Books,1/10/2023,66,1
+941,69,M,Canada,americanexpress,33,21,Games,1/10/2023,17,0
+942,53,F,United States,visa,1,151,Grocery,1/10/2023,32,1
+943,61,M,United States,visa,48,171,Baby,1/11/2023,119,0
+944,44,F,Canada,mastercard,39,87,Computers,1/9/2023,97,1
+945,75,M,United States,mastercard,20,170,Electronics,1/9/2023,6,1
+946,34,F,United States,americanexpress,10,225,Jewelry,1/9/2023,114,1
+947,26,F,United States,americanexpress,23,463,Outdoors,1/8/2023,49,0
+948,20,M,United States,visa,49,241,Sports,1/7/2023,110,1
+949,53,F,Canada,visa,35,217,Health,1/10/2023,106,0
+950,60,F,Mexico,mastercard,5,102,Electronics,1/10/2023,4,0
+951,64,M,Canada,mastercard,4,303,Movies,1/8/2023,94,1
+952,50,F,United States,americanexpress,44,222,Kids,1/7/2023,39,0
+953,42,F,United States,visa,46,440,Baby,1/8/2023,105,0
+954,27,F,United States,visa,18,134,Garden,1/10/2023,34,0
+955,59,M,United States,mastercard,50,105,Baby,1/9/2023,14,1
+956,61,F,United States,mastercard,1,260,Jewelry,1/7/2023,93,1
+957,72,F,Canada,americanexpress,41,440,Garden,1/9/2023,21,1
+958,67,M,Canada,americanexpress,24,163,Outdoors,1/9/2023,57,0
+959,72,F,United States,mastercard,11,79,Clothing,1/9/2023,116,1
+960,46,F,Mexico,mastercard,28,415,Books,1/9/2023,97,1
+961,31,F,Mexico,americanexpress,6,469,Outdoors,1/7/2023,73,0
+962,33,F,United States,mastercard,24,437,Beauty,1/7/2023,112,0
+963,30,M,Mexico,mastercard,38,449,Books,1/7/2023,95,1
+964,57,F,Mexico,visa,27,405,Clothing,1/8/2023,93,0
+965,30,M,United States,mastercard,26,396,Shoes,1/7/2023,111,0
+966,74,F,United States,americanexpress,2,71,Movies,1/9/2023,115,1
+967,61,F,United Kingdom,visa,29,152,Movies,1/8/2023,36,0
+968,74,F,Canada,mastercard,44,471,Outdoors,1/7/2023,116,1
+969,53,M,United States,americanexpress,35,160,Automotive,1/7/2023,9,0
+970,74,F,Mexico,americanexpress,44,176,Industrial,1/9/2023,85,0
+971,54,M,Canada,visa,14,380,Grocery,1/9/2023,119,0
+972,29,F,Mexico,americanexpress,34,320,Clothing,1/10/2023,61,0
+973,45,M,United Kingdom,visa,16,98,Outdoors,1/8/2023,16,1
+974,56,F,Mexico,mastercard,42,272,Sports,1/11/2023,6,0
+975,37,F,United States,americanexpress,28,273,Jewelry,1/10/2023,32,0
+976,38,F,United States,visa,24,418,Automotive,1/8/2023,37,0
+977,24,M,United States,visa,27,472,Jewelry,1/11/2023,80,1
+978,38,F,Mexico,americanexpress,24,116,Grocery,1/8/2023,19,0
+979,20,M,Canada,mastercard,3,142,Health,1/11/2023,71,1
+980,63,M,Canada,mastercard,5,326,Shoes,1/11/2023,120,1
+981,43,F,United States,visa,50,331,Automotive,1/11/2023,49,1
+982,49,F,Canada,mastercard,4,351,Kids,1/10/2023,50,1
+983,71,F,Mexico,americanexpress,26,375,Computers,1/10/2023,122,1
+984,51,F,United States,americanexpress,24,435,Sports,1/9/2023,71,1
+985,25,M,Canada,mastercard,29,455,Toys,1/8/2023,70,0
+986,33,F,Mexico,mastercard,37,194,Movies,1/8/2023,14,1
+987,65,F,United States,americanexpress,40,140,Movies,1/8/2023,119,1
+988,27,F,Canada,mastercard,20,369,Baby,1/8/2023,58,1
+989,35,F,Mexico,americanexpress,32,140,Movies,1/10/2023,19,1
+990,63,M,Mexico,mastercard,14,221,Sports,1/10/2023,107,1
+991,35,M,United States,mastercard,33,468,Tools,1/9/2023,39,1
+992,73,M,Canada,mastercard,4,150,Health,1/10/2023,56,0
+993,32,M,United States,visa,34,59,Books,1/8/2023,39,0
+994,27,M,Canada,americanexpress,23,32,Outdoors,1/9/2023,77,0
+995,51,F,United States,visa,33,70,Home,1/11/2023,29,0
+996,63,F,Canada,visa,46,181,Home,1/10/2023,86,1
+997,51,F,United States,americanexpress,25,151,Electronics,1/8/2023,67,0
+998,31,F,United Kingdom,visa,8,363,Tools,1/8/2023,36,0
+999,61,M,Mexico,visa,40,235,Automotive,1/7/2023,55,1
+1000,34,F,Mexico,visa,21,293,Beauty,1/9/2023,76,1
